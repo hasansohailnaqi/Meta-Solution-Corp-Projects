@@ -1,0 +1,22 @@
+{
+  "name": "msc_currency-converter",
+  "version": "1.2.0",
+  "description": "",
+  "main": "cc.js",
+  "type": "module",
+  "bin": "./cc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.6.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.11"
+  }
+}
